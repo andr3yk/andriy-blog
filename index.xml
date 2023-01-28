@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andriy dev blog</title>
-    <link>https://andriy-blog.github.io/</link>
+    <link>https://andr3yk.github.io/andriy-blog/</link>
     <description>Recent content on Andriy dev blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 21:26:47 +1100</lastBuildDate><atom:link href="https://andriy-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 21:26:47 +1100</lastBuildDate><atom:link href="https://andr3yk.github.io/andriy-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tdd Notes</title>
-      <link>https://andriy-blog.github.io/posts/tdd-notes/</link>
+      <link>https://andr3yk.github.io/andriy-blog/posts/tdd-notes/</link>
       <pubDate>Sat, 28 Jan 2023 21:26:47 +1100</pubDate>
       
-      <guid>https://andriy-blog.github.io/posts/tdd-notes/</guid>
+      <guid>https://andr3yk.github.io/andriy-blog/posts/tdd-notes/</guid>
       <description>TDD Continuous delivery videos: https://www.youtube.com/watch?v=Bq_oz7nCNUA https://www.youtube.com/watch?v=UWtEVKVPBQ0
 Continuous delivery free course: https://courses.cd.training/courses/tdd-tutorial
 Kent Beck TDD course first 10 minutes: https://www.youtube.com/watch?v=VVSSga1Olt8
