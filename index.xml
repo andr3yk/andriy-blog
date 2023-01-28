@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andriy dev blog</title>
+    <link>https://andriy-blog.github.io/</link>
+    <description>Recent content on Andriy dev blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jan 2023 21:26:47 +1100</lastBuildDate><atom:link href="https://andriy-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tdd Notes</title>
+      <link>https://andriy-blog.github.io/posts/tdd-notes/</link>
+      <pubDate>Sat, 28 Jan 2023 21:26:47 +1100</pubDate>
+      
+      <guid>https://andriy-blog.github.io/posts/tdd-notes/</guid>
+      <description>TDD Continuous delivery videos: https://www.youtube.com/watch?v=Bq_oz7nCNUA https://www.youtube.com/watch?v=UWtEVKVPBQ0
+Continuous delivery free course: https://courses.cd.training/courses/tdd-tutorial
+Kent Beck TDD course first 10 minutes: https://www.youtube.com/watch?v=VVSSga1Olt8
+Good write ups about above videos, not sure how to locate all videos&amp;hellip; Kent commented that they are not available. https://pierodibello.medium.com/my-notes-on-kent-becks-tdd-course-8a1a7c8b7a95 https://www.markhneedham.com/blog/2010/07/28/kent-becks-test-driven-development-screencasts/ https://www.tddfellow.com/blog/categories/tdd-screencasts/ https://www.dapengli.com/2015/01/03/kent-beck-tdd/
+Ruby implementation: https://github.com/destiny-index/tyrant-tdd
+TDD Book by Kent Beck: https://learning.oreilly.com/library/view/test-driven-development/0321146530/
+DevTernity: TDD, Where Did It All Go Wrong (Ian Cooper) https://www.youtube.com/watch?v=EZ05e7EMOLM
+Test-Driven Development with Python, 2nd Edition (has good reviews, didn&amp;rsquo;t read) https://learning.</description>
+    </item>
+    
+  </channel>
+</rss>
