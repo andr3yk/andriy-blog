@@ -8,19 +8,35 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jan 2023 21:26:47 +1100</lastBuildDate><atom:link href="https://andr3yk.github.io/andriy-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Rock climbing technique</title>
+      <link>https://andr3yk.github.io/andriy-blog/posts/rock-climbing-technique/</link>
+      <pubDate>Sat, 28 Jan 2023 21:26:47 +1100</pubDate>
+      
+      <guid>https://andr3yk.github.io/andriy-blog/posts/rock-climbing-technique/</guid>
+      <description>Overall technique video collections Will list these channels/playlists in the order I have discovered them, the Neil Gresham one is a must watch! :)
+All of them are really good quality content with interesting discussions in the comments. Most of the channels apart from Crux Films have other great content as well
+Crux Films - Neil Gresham Climbing Masterclass https://www.youtube.com/@Cruxfilmsclimbing
+Mani the Monkey - Rock Climbing Technique playlist https://www.youtube.com/playlist?list=PLtfngg_GZtb93FAaysIMnmpfd3u6QlYDE
+Movement for Climbers - Climbing Technique https://www.</description>
+    </item>
+    
+    <item>
       <title>Tdd Notes</title>
       <link>https://andr3yk.github.io/andriy-blog/posts/tdd-notes/</link>
       <pubDate>Sat, 28 Jan 2023 21:26:47 +1100</pubDate>
       
       <guid>https://andr3yk.github.io/andriy-blog/posts/tdd-notes/</guid>
-      <description>TDD Continuous delivery videos: https://www.youtube.com/watch?v=Bq_oz7nCNUA https://www.youtube.com/watch?v=UWtEVKVPBQ0
-Continuous delivery free course: https://courses.cd.training/courses/tdd-tutorial
-Kent Beck TDD course first 10 minutes: https://www.youtube.com/watch?v=VVSSga1Olt8
-Good write ups about above videos, not sure how to locate all videos&amp;hellip; Kent commented that they are not available. https://pierodibello.medium.com/my-notes-on-kent-becks-tdd-course-8a1a7c8b7a95 https://www.markhneedham.com/blog/2010/07/28/kent-becks-test-driven-development-screencasts/ https://www.tddfellow.com/blog/categories/tdd-screencasts/ https://www.dapengli.com/2015/01/03/kent-beck-tdd/
-Ruby implementation: https://github.com/destiny-index/tyrant-tdd
-TDD Book by Kent Beck: https://learning.oreilly.com/library/view/test-driven-development/0321146530/
-DevTernity: TDD, Where Did It All Go Wrong (Ian Cooper) https://www.youtube.com/watch?v=EZ05e7EMOLM
-Test-Driven Development with Python, 2nd Edition (has good reviews, didn&amp;rsquo;t read) https://learning.</description>
+      <description>Test Driven Development notes Continuous delivery videos:
+Test Driven Development vs Behavior Driven Development https://www.youtube.com/watch?v=Bq_oz7nCNUA When Test Driven Development Goes Wrong https://www.youtube.com/watch?v=UWtEVKVPBQ0 Continuous delivery free course:
+https://courses.cd.training/courses/tdd-tutorial
+Kent Beck TDD course first 10 minutes:
+https://www.youtube.com/watch?v=VVSSga1Olt8
+Good write ups about above video, not sure how to locate all videos&amp;hellip; Kent commented that they are not available.
+https://pierodibello.medium.com/my-notes-on-kent-becks-tdd-course-8a1a7c8b7a95 https://www.markhneedham.com/blog/2010/07/28/kent-becks-test-driven-development-screencasts/ https://www.tddfellow.com/blog/categories/tdd-screencasts/ https://www.dapengli.com/2015/01/03/kent-beck-tdd/ Ruby implementation:
+https://github.com/destiny-index/tyrant-tdd
+TDD Book by Kent Beck:
+https://learning.oreilly.com/library/view/test-driven-development/0321146530/
+DevTernity video:</description>
     </item>
     
   </channel>
